@@ -1,0 +1,2 @@
+name, driver_version, power.limit [W], power.max_limit [W], clocks.max.sm [MHz], clocks.max.memory [MHz]
+NVIDIA GeForce RTX 4090, 595.91.07, 450.00 W, 450.00 W, 3105 MHz, 10501 MHz

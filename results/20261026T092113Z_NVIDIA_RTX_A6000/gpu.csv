@@ -1,0 +1,2 @@
+name, driver_version, power.limit [W], power.max_limit [W], clocks.max.sm [MHz], clocks.max.memory [MHz]
+NVIDIA RTX A6000, 595.91.07, 300.00 W, 300.00 W, 2100 MHz, 8001 MHz

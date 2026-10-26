@@ -1,0 +1,2 @@
+name, driver_version, power.limit [W], power.max_limit [W], clocks.max.sm [MHz], clocks.max.memory [MHz]
+NVIDIA RTX 6000 Ada Generation, 595.91.07, 300.00 W, 300.00 W, 3105 MHz, 10001 MHz
